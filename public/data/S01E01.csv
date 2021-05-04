@@ -1,0 +1,558 @@
+index,dialogue,tokens,compound,fear,anger,anticip,trust,surprise,sadness,disgust,joy
+0,"Do you know what this is all about? Do you know, why were here? To be out, this is out...and out is one of the single most enjoyable experiences of life. People...did you ever hear people talking about We should go out? This is what theyre talking about...this whole thing, were all out now, no one is home. Not one person here is home, were all out! There are people tryin to find us, they dont know where we are. (on an imaginary phone) Did you ring?, I cant find him. Where did he go? He didnt tell me where he was going. He must have gone out. You wanna go out you get ready, you pick out the clothes, right? You take the shower, you get all ready, get the cash, get your friends, the car, the spot, the reservation...Then youre standing around, whatta you do? You go We gotta be getting back. Once youre out, you wanna get back! You wanna go to sleep, you wanna get up, you wanna go out again tomorrow, right? Where ever you are in life, its my feeling, youve gotta go.","['Do you know what this is all about?', 'Do you know, why were here?', 'To be out, this is out...and out is one of the single most enjoyable experiences of life.', 'People...did you ever hear people talking about We should go out?', 'This is what theyre talking about...this whole thing, were all out now, no one is home.', 'Not one person here is home, were all out!', 'There are people tryin to find us, they dont know where we are.', '(on an imaginary phone) Did you ring?, I cant find him.', 'Where did he go?', 'He didnt tell me where he was going.', 'He must have gone out.', 'You wanna go out you get ready, you pick out the clothes, right?', 'You take the shower, you get all ready, get the cash, get your friends, the car, the spot, the reservation...Then youre standing around, whatta you do?', 'You go We gotta be getting back.', 'Once youre out, you wanna get back!', 'You wanna go to sleep, you wanna get up, you wanna go out again tomorrow, right?', 'Where ever you are in life, its my feeling, youve gotta go.']",,0.19444444444444445,0.05555555555555555,0.0,0.05555555555555555,0.027777777777777776,0.16666666666666666,0.027777777777777776,0.05555555555555555
+1,"(pointing at Georges shirt) See, to me, that button is in the worst possible spot. The second button literally makes or breaks the shirt, look at it. Its too high! Its in no-mans-land. You look like you live with your mother.","['(pointing at Georges shirt) See, to me, that button is in the worst possible spot.', 'The second button literally makes or breaks the shirt, look at it.', 'Its too high!', 'Its in no-mans-land.', 'You look like you live with your mother.']",,0.0,0.0,0.0,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666
+2,Are you through?,['Are you through?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,"You do of course try on, when you buy?","['You do of course try on, when you buy?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,"Yes, it was purple, I liked it, I dont actually recall considering the buttons.","['Yes, it was purple, I liked it, I dont actually recall considering the buttons.']",0.6705,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,"Oh, you dont recall?","['Oh, you dont recall?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,"(on an imaginary microphone) Uh, no, not at this time.","['(on an imaginary microphone) Uh, no, not at this time.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,"Well, senator, Id just like to know, what you knew and when you knew it.","['Well, senator, Id just like to know, what you knew and when you knew it.']",0.5574,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Mr. Seinfeld. Mr. Costanza.,"['Mr. Seinfeld.', 'Mr. Costanza.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,"Are, are you sure this is decaf? Wheres the orange indicator?","['Are, are you sure this is decaf?', 'Wheres the orange indicator?']",0.1969,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,"Its missing, I have to do it in my head decaf left, regular right, decaf left, regular right...its very challenging work.","['Its missing, I have to do it in my head decaf left, regular right, decaf left, regular right...its very challenging work.']",,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+11,"Can you relax, its a cup of coffee. Claire is a professional waitress.","['Can you relax, its a cup of coffee.', 'Claire is a professional waitress.']",0.2202,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+12,Trust me George. No one has any interest in seeing you on caffeine.,"['Trust me George.', 'No one has any interest in seeing you on caffeine.']",0.3715,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,How come youre not doin the second show tomorrow?,['How come youre not doin the second show tomorrow?'],,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+14,"Well, theres this uh, woman might be comin in.","['Well, theres this uh, woman might be comin in.']",0.2732,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,"Wait a second, wait a second, what coming in, what woman is coming in?","['Wait a second, wait a second, what coming in, what woman is coming in?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,"I told you about Laura, the girl I met in Michigan?","['I told you about Laura, the girl I met in Michigan?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,"No, you didnt!","['No, you didnt!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,"I thought I told you about it, yes, she teaches political science? I met her the night I did the show in Lansing...","['I thought I told you about it, yes, she teaches political science?', 'I met her the night I did the show in Lansing...']",0.2009,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+19,Ha.,['Ha.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,"(looks in the creamer) Theres no milk in here, what...","['(looks in the creamer) Theres no milk in here, what...']",-0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,"Wait wait wait, what is she... (takes the milk can from Jerry and puts it on the table) What is she like?","['Wait wait wait, what is she... (takes the milk can from Jerry and puts it on the table) What is she like?']",0.3612,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,"Oh, shes really great. I mean, shes got like a real warmth about her and shes really bright and really pretty and uh... the conversation though, I mean, it was... talking with her is like talking with you, but, you know, obviously much better.","['Oh, shes really great.', 'I mean, shes got like a real warmth about her and shes really bright and really pretty and uh... the conversation though, I mean, it was... talking with her is like talking with you, but, you know, obviously much better.']",0.4466,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.16666666666666666
+23,"(smiling) So, you know, what, what happened?","['(smiling) So, you know, what, what happened?']",0.4588,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+24,"Oh, nothing happened, you know, but is was great.","['Oh, nothing happened, you know, but is was great.']",0.7684,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,"Oh, nothing happened, but it was...","['Oh, nothing happened, but it was...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Yeah.,['Yeah.'],0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,This is great!,['This is great!'],0.6588,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Yeah.,['Yeah.'],0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,"So, you know, she calls and says she wants to go out with you tomorrow night? God bless! Devil you!","['So, you know, she calls and says she wants to go out with you tomorrow night?', 'God bless!', 'Devil you!']",,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.125
+30,"Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe well get together.","['Yeah, well...not exactly.', 'I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe well get together.']",0.2553,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,"(whistles disapprovingly) Ho ho ho, Had to? Had to come in?","['(whistles disapprovingly) Ho ho ho, Had to?', 'Had to come in?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,"Yeah, but...","['Yeah, but...']",0.1531,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,Had to come in and maybe well get together? Had to and maybe?,"['Had to come in and maybe well get together?', 'Had to and maybe?']",0.1764,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,Yeah!,['Yeah!'],0.3595,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,"No...no...no, I hate to tell you this. Youre not gonna see this woman.","['No...no...no, I hate to tell you this.', 'Youre not gonna see this woman.']",-0.2859,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+36,"What, are you serious...why, why did she call?","['What, are you serious...why, why did she call?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,"How do I know, maybe, you know, maybe she wanted to be polite.","['How do I know, maybe, you know, maybe she wanted to be polite.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,To be polite? You are insane!,"['To be polite?', 'You are insane!']",-0.2287,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.0
+39,"All right, all right, I didnt want to tell you this. You wanna know why she called you?","['All right, all right, I didnt want to tell you this.', 'You wanna know why she called you?']",,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+40,Yes!,['Yes!'],0.4574,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,"Youre a back-up, youre a second-line, a just-in-case, a B-plan, a contingency!","['Youre a back-up, youre a second-line, a just-in-case, a B-plan, a contingency!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,"Oh, I get it, this is about the button.","['Oh, I get it, this is about the button.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,"Claire, Claire, youre a woman, right?","['Claire, Claire, youre a woman, right?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,"What gave it away, George?","['What gave it away, George?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,"Uhm...Id like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.","['Uhm...Id like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.']",0.3612,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,"(to Claire) Now, a woman calls me, all right?","['(to Claire) Now, a woman calls me, all right?']",,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+47,Uh huh.,['Uh huh.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,She says she has to come to New York on business...,['She says she has to come to New York on business...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,Oh you are beautiful!,['Oh you are beautiful!'],0.636,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+50,"...and, and maybe shell see me when she gets there, does this woman intend to spend time with me?","['...and, and maybe shell see me when she gets there, does this woman intend to spend time with me?']",,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.0
+51,"Id have to say, uuhh, no.","['Id have to say, uuhh, no.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+52,NO.),['NO.)'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,To be polite.,['To be polite.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,To be polite. I rest my case.,"['To be polite.', 'I rest my case.']",,0.2,0.0,0.0,0.0,0.0,0.2,0.0,0.0
+55,"Good. Did you have fun? You have no idea, what youre talking about, now, come on, come with me. (stands up) I gotta go get my stuff out of the dryer anyway.","['Good.', 'Did you have fun?', 'You have no idea, what youre talking about, now, come on, come with me.', '(stands up) I gotta go get my stuff out of the dryer anyway.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+56,Im not gonna watch you do laundry.,['Im not gonna watch you do laundry.'],,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,"Oh, come on, be a come-with guy.","['Oh, come on, be a come-with guy.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,"Come on, Im tired.","['Come on, Im tired.']",-0.4404,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+59,"(to Jerry) Dont worry, I gave him a little caffeine. Hell perk up.","['(to Jerry) Dont worry, I gave him a little caffeine.', 'Hell perk up.']",0.1706,0.2,0.0,0.0,0.0,0.0,0.2,0.0,0.0
+60,"(panicking) Right, I knew I felt something!","['(panicking) Right, I knew I felt something!']",-0.4926,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+61,Jerry? I have to tell you something. This is the dullest moment Ive ever experienced.,"['Jerry?', 'I have to tell you something.', 'This is the dullest moment Ive ever experienced.']",,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+62,"Well, look at this guy. Look, hes got everything, hes got detergents, sprays, fabric softeners.  This is not his first load.","['Well, look at this guy.', 'Look, hes got everything, hes got detergents, sprays, fabric softeners.', 'This is not his first load.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+63,"I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...","['I need a break, Jerry, you know.', 'I gotta get out of the city.', 'I feel so cramped...']",,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+64,And you didnt even hear how she sounded.,['And you didnt even hear how she sounded.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+65,What?!,"['What?', '!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+66,Laura.,['Laura.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+67,I cant believe- (falls on his knees) WE ALREADY DISCUSSED THIS!,['I cant believe- (falls on his knees) WE ALREADY DISCUSSED THIS!'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,"Yeah, but how could you be so sure?","['Yeah, but how could you be so sure?']",0.6795,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,"Cause its signals, Jerry, its signals! (snapping his fingers) Dont you- all right. Did she even ask you, what you were doin tomorrow night, if you were busy?","['Cause its signals, Jerry, its signals!', '(snapping his fingers) Dont you- all right.', 'Did she even ask you, what you were doin tomorrow night, if you were busy?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70,No.,['No.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71,She calls you today and she doesnt make a plan for tomorrow? What is that? Its Saturday night!,"['She calls you today and she doesnt make a plan for tomorrow?', 'What is that?', 'Its Saturday night!']",,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0
+72,Yeah.,['Yeah.'],0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+73,"What is that? Its ridiculous! You dont even know what hotel shes staying at, you cant call her. Thats a signal, Jerry, thats a signal! (snaps his fingers) Signal!","['What is that?', 'Its ridiculous!', 'You dont even know what hotel shes staying at, you cant call her.', 'Thats a signal, Jerry, thats a signal!', '(snaps his fingers) Signal!']",,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+74,Maybe youre right.,['Maybe youre right.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,Maybe Im right? Of course Im right.,"['Maybe Im right?', 'Of course Im right.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,"This is insane. You know, I dont even know where shes staying! She, shes not gonna call me, this is unbelievable.","['This is insane.', 'You know, I dont even know where shes staying!', 'She, shes not gonna call me, this is unbelievable.']",,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.0
+77,"I know, I know. Listen, your stuff has to be done by now, why dont you just see if its dry?","['I know, I know.', 'Listen, your stuff has to be done by now, why dont you just see if its dry?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,"No no no, dont interrupt the cycle. The machine is working, it, it knows what its doing. Just let it finish.","['No no no, dont interrupt the cycle.', 'The machine is working, it, it knows what its doing.', 'Just let it finish.']",,0.0,0.2,0.0,0.2,0.2,0.0,0.0,0.0
+79,Youre gonna overdry it.,['Youre gonna overdry it.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+80,"You, you cant overdry.","['You, you cant overdry.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+81,Why not?,['Why not?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,"Same as you cant overwet. You see, once something is wet, its wet. Same thing with death. Like once you die youre dead, right? Lets say you drop dead and I shoot you. Youre not gonna die again, youre already dead. You cant overdie, you cant overdry.","['Same as you cant overwet.', 'You see, once something is wet, its wet.', 'Same thing with death.', 'Like once you die youre dead, right?', 'Lets say you drop dead and I shoot you.', 'Youre not gonna die again, youre already dead.', 'You cant overdie, you cant overdry.']",,0.25,0.125,0.0,0.0,0.0625,0.1875,0.0625,0.0
+83,(to the other laundry patrons) Any questions?,['(to the other laundry patrons) Any questions?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+84,How could she not tell me where she was staying?,['How could she not tell me where she was staying?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,Look at that. Theyre done!,"['Look at that.', 'Theyre done!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,"Laundry day is the only exciting day in the life of clothes. It is...yknow, think about it. The washing machine is the nightclub of clothes. You know, its dark, theres bubbles happening, theyre all kinda dancing around in there- shirt grabs the underwear, Cmon babe, lets go. You come by, you open up the lid and theyll- (stiffens up, as the clothes) Socks are the most amazing article of clothing. They hate their lives, theyre in the shoes with stinky feet, the boring drawers. The dryer is their only chance to escape and they all know it. They knew a escape from the dryer. They plan it in the hamper the night before, Tomorrow, the dryer, Im goin. You wait here! The dryer door swings open and the sock is waiting up against the side wall. He hopes you dont see him and then he goes down the road. They get buttons sewn on their faces, join a puppet show. So theyre showing me on television the detergent for getting out bloodstains. Is this a violent image to anybody? Bloodstains? I mean, come on, you got a T-shirt with bloodstains all over it, maybe laundry isnt your biggest problem right now. You gotta get the harpoon out your chest first.","['Laundry day is the only exciting day in the life of clothes.', 'It is...yknow, think about it.', 'The washing machine is the nightclub of clothes.', 'You know, its dark, theres bubbles happening, theyre all kinda dancing around in there- shirt grabs the underwear, Cmon babe, lets go.', 'You come by, you open up the lid and theyll- (stiffens up, as the clothes) Socks are the most amazing article of clothing.', 'They hate their lives, theyre in the shoes with stinky feet, the boring drawers.', 'The dryer is their only chance to escape and they all know it.', 'They knew a escape from the dryer.', 'They plan it in the hamper the night before, Tomorrow, the dryer, Im goin.', 'You wait here!', 'The dryer door swings open and the sock is waiting up against the side wall.', 'He hopes you dont see him and then he goes down the road.', 'They get buttons sewn on their faces, join a puppet show.', 'So theyre showing me on television the detergent for getting out bloodstains.', 'Is this a violent image to anybody?', 'Bloodstains?', 'I mean, come on, you got a T-shirt with bloodstains all over it, maybe laundry isnt your biggest problem right now.', 'You gotta get the harpoon out your chest first.']",,0.14285714285714285,0.05714285714285714,0.0,0.05714285714285714,0.08571428571428572,0.08571428571428572,0.05714285714285714,0.02857142857142857
+87,"(answering, quickly) If you know what happened in the Met game, dont say anything, I taped it, hello. Yeah, no, Im sorry, you have the wrong number. Yeah, no","['(answering, quickly) If you know what happened in the Met game, dont say anything, I taped it, hello.', 'Yeah, no, Im sorry, you have the wrong number.', 'Yeah, no']",-0.2269,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+88,(to the door) Yeah?,['(to the door) Yeah?'],0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,Are you up?,['Are you up?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,"(to Kessler) Yeah. (to the phone) Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.","['(to Kessler) Yeah.', '(to the phone) Yeah, people do move.', 'Have you ever seen the big trucks out on the street?', 'Yeah, no problem.']",,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+91,"Boy, the Mets blew it tonight, huh?","['Boy, the Mets blew it tonight, huh?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,"(upset) Ohhhh, what are you doing? Kessler, its a tape! I taped the game, its one oclock in the morning! I avoided human contact all night to watch this.","['(upset) Ohhhh, what are you doing?', 'Kessler, its a tape!', 'I taped the game, its one oclock in the morning!', 'I avoided human contact all night to watch this.']",-0.1698,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.16666666666666666,0.0,0.0
+93,"Hey, Im sorry, I- you know, I, I thought you knew. (takes two loaves of bread out of his pockets, and holds them out to Jerry.) You got any meat?","['Hey, Im sorry, I- you know, I, I thought you knew.', '(takes two loaves of bread out of his pockets, and holds them out to Jerry.)', 'You got any meat?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+94,"Meat? I dont, I dont know, go... hunt! (Kessler opens the refrigerator and sticks his head in.) Well what happened in the game anyway?","['Meat?', 'I dont, I dont know, go... hunt!', '(Kessler opens the refrigerator and sticks his head in.)', 'Well what happened in the game anyway?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,"(from the refrigerator) What happened? Well, they STUNK, thats what happened!","['(from the refrigerator) What happened?', 'Well, they STUNK, thats what happened!']",-0.2805,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+96,"You know, I almost wound up going to that game.","['You know, I almost wound up going to that game.']",,0.25,0.25,0.0,0.0,0.0,0.25,0.0,0.0
+97,(cynical) Yeah you almost went to the game. You havent been out of the building in ten years!,"['(cynical) Yeah you almost went to the game.', 'You havent been out of the building in ten years!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,"Yeah. (Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?) Are you done with this?","['Yeah.', '(Jerry sits down on the couch.', 'Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down.', 'Kessler sits down next to him and starts turning over the pages of a magazine.', 'Suddenly he spots an article he likes and tears it out.', 'Jerry gives him a look as if to say, Do you mind?)', 'Are you done with this?']",,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+99,No.,['No.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,"When youre done, let me know.","['When youre done, let me know.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,"Yeah, yeah...you can have it tomorrow.","['Yeah, yeah...you can have it tomorrow.']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+102,I thought I wasnt allowed to be in here this weekend.,['I thought I wasnt allowed to be in here this weekend.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,"No, its okay now, that, that girl is not comin. Uh, I misread the whole thing.","['No, its okay now, that, that girl is not comin.', 'Uh, I misread the whole thing.']",0.2024,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+104,You want me to talk to her?,['You want me to talk to her?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+105,I dont think so.,['I dont think so.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+106,"Oh, I can be very persuasive. Do you know that I was almost... a lawyer.","['Oh, I can be very persuasive.', 'Do you know that I was almost... a lawyer.']",,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+107,"That close, huh?","['That close, huh?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+108,You better believe it.,['You better believe it.'],0.4404,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+109,"Hello...Oh, hi, Laura.","['Hello...Oh, hi, Laura.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,"Oh, give me it...let me talk to her.","['Oh, give me it...let me talk to her.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,"(to the phone) No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...","['(to the phone) No believe me, Im always up at this hour.', 'How are you?...', 'Great... Sure... What time does the plane get in?...', 'I got my friend George to take me...']",,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+112,(to the TV) SLIDE! Wow!,"['(to the TV) SLIDE!', 'Wow!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113,"No, its, its just my neighbour... Um... Yeah, I got it. (Jerry takes a pencil and a cereal box to write on.) Ten-fifteen... No, dont be silly, go ahead and ask... Yeah, sure... Okay, great, no no, its no trouble at all... Ill see you tomorrow... Great, bye. (He hangs up the phone; to Kessler) I dont believe it. That was her. She wants to stay here!","['No, its, its just my neighbour... Um... Yeah, I got it.', '(Jerry takes a pencil and a cereal box to write on.)', 'Ten-fifteen... No, dont be silly, go ahead and ask... Yeah, sure...', 'Okay, great, no no, its no trouble at all... Ill see you tomorrow... Great, bye.', '(He hangs up the phone; to Kessler) I dont believe it.', 'That was her.', 'She wants to stay here!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2
+114,"If my father was moving this hed had to have a cigarette in his mouth the whole way. (as his father) 'Have you got your end?...Your ends got to come down first, easy now, drop it down...drop it down, your ends got to come down.'","['If my father was moving this hed had to have a cigarette in his mouth the whole way.', ""(as his father) 'Have you got your end?...Your ends got to come down first, easy now, drop it down...drop it down, your ends got to come down.'""]",,0.0,0.0,0.0,0.5,0.25,0.0,0.0,0.0
+115,"You know, I cant believe youre bringin in an extra bed for woman that wants to sleep with you. Why dont you bring in an extra guy too?","['You know, I cant believe youre bringin in an extra bed for woman that wants to sleep with you.', 'Why dont you bring in an extra guy too?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,"Look, its a very awkward situation. I dont wanna be presumptuous.","['Look, its a very awkward situation.', 'I dont wanna be presumptuous.']",,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666,0.0
+117,"All right, all right, one more time, one more time! What was the exact phrasing of the request?","['All right, all right, one more time, one more time!', 'What was the exact phrasing of the request?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+118,"All right, she said she couldnt find a decent hotel room...","['All right, she said she couldnt find a decent hotel room...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,A decent hotel-room...,['A decent hotel-room...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+120,"Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.","['Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.']",-0.5859,0.0,0.16666666666666666,0.0,0.0,0.0,0.3333333333333333,0.16666666666666666,0.0
+121,"You cant be serious. This is New York city. There must be eleven million decent hotel rooms! Whatta you need? A flag? (waving his handkerchief) This is the signal, Jerry, this is the signal!","['You cant be serious.', 'This is New York city.', 'There must be eleven million decent hotel rooms!', 'Whatta you need?', 'A flag?', '(waving his handkerchief) This is the signal, Jerry, this is the signal!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+122,"(cynical) This is the signal? Thank you, Mr. Signal. Where were you yesterday?","['(cynical) This is the signal?', 'Thank you, Mr. Signal.', 'Where were you yesterday?']",-0.1505,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+123,I think I was affected by the caffeine.,['I think I was affected by the caffeine.'],-0.1531,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+124,"Ho, ho, ho, good dog, good dog...","['Ho, ho, ho, good dog, good dog...']",0.7003,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+125,"Hey, he really likes you, George.","['Hey, he really likes you, George.']",0.4754,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+126,"Well, thats flattering.","['Well, thats flattering.']",0.5267,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+127,"Oh, hes gettin a drink of water. (pointing to the mattress) Is this for that girl?","['Oh, hes gettin a drink of water.', '(pointing to the mattress) Is this for that girl?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,Yeah.,['Yeah.'],0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+129,Why even give her an option?,['Why even give her an option?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,"This is a person I like, its not How to score on spring break.","['This is a person I like, its not How to score on spring break.']",0.3612,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.2
+131,"Right, can we go? Cause Im double-parked, Im gonna get a ticket.","['Right, can we go?', 'Cause Im double-parked, Im gonna get a ticket.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+132,"Yeah, okay. Oh, wait a second. Oh, I forgot to clean the bathroom.","['Yeah, okay.', 'Oh, wait a second.', 'Oh, I forgot to clean the bathroom.']",0.1998,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.2
+133,So what? Thats good.,"['So what?', 'Thats good.']",0.2451,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+134,"Now, how could that be good?","['Now, how could that be good?']",0.4404,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+135,"Because filth is good. Whaddaya think, rock stars have sponges and ammonia lyin around the bathroom? They, have a woman comin over, Ive gotta tidy up? Yeah right, in these matters you never do what your instincts tell you. Always, ALWAYS do the opposite.","['Because filth is good.', 'Whaddaya think, rock stars have sponges and ammonia lyin around the bathroom?', 'They, have a woman comin over, Ive gotta tidy up?', 'Yeah right, in these matters you never do what your instincts tell you.', 'Always, ALWAYS do the opposite.']",,0.0,0.0,0.0,0.1111111111111111,0.1111111111111111,0.0,0.2222222222222222,0.1111111111111111
+136,This is how you operate?,['This is how you operate?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,"Yeah, I wish.","['Yeah, I wish.']",0.5994,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+138,Let me just wipe the sink.,['Let me just wipe the sink.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,Why even give her an option for?,['Why even give her an option for?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+140,"(to George, pointing at the mattress) Its unbelievable.","['(to George, pointing at the mattress) Its unbelievable.']",0.2023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+141,Yeah.,['Yeah.'],0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+142,Hows the real estate-business?,['Hows the real estate-business?'],,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+143,"(feeling awkward) Its uh, not bad, its comin along. Why? Did you need something.","['(feeling awkward) Its uh, not bad, its comin along.', 'Why?', 'Did you need something.']",,0.13333333333333333,0.13333333333333333,0.0,0.06666666666666667,0.06666666666666667,0.13333333333333333,0.13333333333333333,0.06666666666666667
+144,Do you handle any of that commercial...real estate?,['Do you handle any of that commercial...real estate?'],,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+145,"Well, I might be getting into that.","['Well, I might be getting into that.']",0.2732,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+146,(slaps George on the arm) You keep me posted!,['(slaps George on the arm) You keep me posted!'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+147,"Im aware of you. (to Jerry) All right, lets go (opens the bathroom door) Lets go!","['Im aware of you.', '(to Jerry) All right, lets go (opens the bathroom door) Lets go!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+148,"The dating world is not a fun world...its a pressure world, its a world of tension, its a world of pain...and you know, if a woman comes over to my house, I gotta get that bathroom ready, cause she needs things. Women need equipment. I dont know what they need. I know I dont have it, I know that- You know what they need, women seem to need a lot of cotton-balls. This is the one Im- always has been one of the amazing things to me...I have no cotton-balls, were all human beings, what is the story? Ive never had one...I never bought one, I never needed one, Ive never been in a situation, when I thought to myself I could use a cotton-ball right now. I can certainly get out of this mess. Women need them and they dont need one or two, they need thousands of them, they need bags, theyre like peat moss bags, have you ever seen these giant bags? Theyre huge and two days later, theyre out, theyre gone, the, the bag is empty, where are the cotton-balls, ladies? What are you doin with them? The only time I ever see em is in the bottom of your little waste basket, theres two or three, that look like theyve been through some horrible experience... tortured, interrogated, I dont know what happened to them. I once went out with a girl whos left a little zip-lock-baggy of cotton-balls over at my house. I dont know what to do with them, I took them out, I put them on my kitchen floor like little tumbleweeds. I thought maybe the cockroaches would see it, figure this is a dead town. Lets move on. The dating world is a world of pressure. Lets face it a date is a job interview that lasts all night. The only difference between a date and a job interview is not many job interviews is there a chance youll end up naked at the end of it. You know? Well, Bill, the boss thinks youre the man for the position, why dont you strip down and meet some of the people youll be workin with?","['The dating world is not a fun world...its a pressure world, its a world of tension, its a world of pain...and you know, if a woman comes over to my house, I gotta get that bathroom ready, cause she needs things.', 'Women need equipment.', 'I dont know what they need.', 'I know I dont have it, I know that- You know what they need, women seem to need a lot of cotton-balls.', 'This is the one Im- always has been one of the amazing things to me...I have no cotton-balls, were all human beings, what is the story?', 'Ive never had one...I never bought one, I never needed one, Ive never been in a situation, when I thought to myself I could use a cotton-ball right now.', 'I can certainly get out of this mess.', 'Women need them and they dont need one or two, they need thousands of them, they need bags, theyre like peat moss bags, have you ever seen these giant bags?', 'Theyre huge and two days later, theyre out, theyre gone, the, the bag is empty, where are the cotton-balls, ladies?', 'What are you doin with them?', 'The only time I ever see em is in the bottom of your little waste basket, theres two or three, that look like theyve been through some horrible experience... tortured, interrogated, I dont know what happened to them.', 'I once went out with a girl whos left a little zip-lock-baggy of cotton-balls over at my house.', 'I dont know what to do with them, I took them out, I put them on my kitchen floor like little tumbleweeds.', 'I thought maybe the cockroaches would see it, figure this is a dead town.', 'Lets move on.', 'The dating world is a world of pressure.', 'Lets face it a date is a job interview that lasts all night.', 'The only difference between a date and a job interview is not many job interviews is there a chance youll end up naked at the end of it.', 'You know?', 'Well, Bill, the boss thinks youre the man for the position, why dont you strip down and meet some of the people youll be workin with?']",,0.1,0.06666666666666667,0.0,0.0,0.03333333333333333,0.1,0.1,0.03333333333333333
+149,Wouldnt it be great if you could ask a woman what shes thinking?,['Wouldnt it be great if you could ask a woman what shes thinking?'],-0.5096,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+150,"What a world that would be, if you just could ask a woman what shes thinkin.","['What a world that would be, if you just could ask a woman what shes thinkin.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+151,"You know, instead, Im like a detective. I gotta pick up clues, the whole thing is a murder investigation.","['You know, instead, Im like a detective.', 'I gotta pick up clues, the whole thing is a murder investigation.']",-0.247,0.125,0.125,0.0,0.0,0.125,0.125,0.125,0.0
+152,"Listen, listen, dont get worked up, cause youre gonna know the whole story the minute she steps off the plane.","['Listen, listen, dont get worked up, cause youre gonna know the whole story the minute she steps off the plane.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+153,Really? How?,"['Really?', 'How?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,Cause its all in the greeting.,['Cause its all in the greeting.'],0.3818,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+155,Uh-huh.,['Uh-huh.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,"All right, if she puts the bags down before she greets you, thats a good sign.","['All right, if she puts the bags down before she greets you, thats a good sign.']",0.5423,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+157,Right.,['Right.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+158,"You know, anything in the, in the lip area is good.","['You know, anything in the, in the lip area is good.']",0.4404,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+159,Lip area.,['Lip area.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+160,You know a hug definitely good.,['You know a hug definitely good.'],0.8271,0.0,0.0,0.0,0.25,0.125,0.0,0.0,0.25
+161,Hug is definitely good.,['Hug is definitely good.'],0.8271,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+162,Sure.,['Sure.'],0.3182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+163,"Although what if its one of those hugs where the shoulders are touching, the hips are eight feet apart?","['Although what if its one of those hugs where the shoulders are touching, the hips are eight feet apart?']",0.4939,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+164,"Thats so brutal, I hate that.","['Thats so brutal, I hate that.']",-0.854,0.25,0.25,0.0,0.0,0.0,0.125,0.125,0.0
+165,You know how they do that?,['You know how they do that?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+166,"Thats why, you know, a shake is bad.","['Thats why, you know, a shake is bad.']",-0.6369,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+167,"Shake is bad, but what if its the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?","['Shake is bad, but what if its the two-hander?', 'The hand on the bottom, the hand on the top, the warm look in the eyes?']",0.4491,0.1,0.1,0.0,0.1,0.0,0.2,0.1,0.0
+168,Hand sandwich.,['Hand sandwich.'],0.4939,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+169,Right.,['Right.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+170,"I see, well, thats open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes.","['I see, well, thats open to interpretation.', 'Because so much depends on the layering and the quality of the wetness in the eyes.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+171,Guess who?,['Guess who?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+172,"Hey, hey.","['Hey, hey.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+173,Heeeey!,['Heeeey!'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+174,Its good to see you.,['Its good to see you.'],0.4404,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+175,Hi.,['Hi.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+176,This is my friend George.,['This is my friend George.'],0.4939,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.3333333333333333
+177,"Hi, how nice to meet you.","['Hi, how nice to meet you.']",0.4215,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,"Hi, how are you?","['Hi, how are you?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,This is Laura.,['This is Laura.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,"Laura, sure.","['Laura, sure.']",0.3182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+181,(to Laura) I cant believe youre here.,['(to Laura) I cant believe youre here.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+182,"Ooh yeah, the bags, sure.","['Ooh yeah, the bags, sure.']",0.5423,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,"Oh, thank you.","['Oh, thank you.']",0.3612,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+184,"(aside, to George) Now that was an interesting greeting, did you notice that, George?","['(aside, to George) Now that was an interesting greeting, did you notice that, George?']",0.6486,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0
+185,"Yes, the surprise blindfold greeting. That wasnt in the manual, I dont know.","['Yes, the surprise blindfold greeting.', 'That wasnt in the manual, I dont know.']",0.2929,0.2,0.0,0.0,0.1,0.3,0.0,0.0,0.1
+186,"So uh, what do you think?","['So uh, what do you think?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+187,"Ooohhh, wow! This place isnt so bad.","['Ooohhh, wow!', 'This place isnt so bad.']",0.298,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+188,"Yeah, it kind a motivates me to work on the road. So uh, make yourself at home. (Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt.) So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?","['Yeah, it kind a motivates me to work on the road.', 'So uh, make yourself at home.', '(Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt.)', 'So uh, can I get you anything?', 'Uuhhh, bread, water...salad-dressing?']",,0.0,0.0,0.0,0.25,0.0,0.25,0.0,0.25
+189,"(laughs) Actually, um, do you have any wine?","['(laughs) Actually, um, do you have any wine?']",0.4939,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+190,"Uh, yeah, I think I do.","['Uh, yeah, I think I do.']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+191,"(referring to a lamp) Oh, do you mind if I turn this down?","['(referring to a lamp) Oh, do you mind if I turn this down?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+192,"Uh, no, yeah, go right ahead.","['Uh, no, yeah, go right ahead.']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+193,"Uh, Jerry, uh, I was wandering, would it be possible  and if its not, fine  for me to stay here tomorrow night too?","['Uh, Jerry, uh, I was wandering, would it be possible  and if its not, fine  for me to stay here tomorrow night too?']",-0.1511,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+194,"Uh, yeah, yeah, sure, why dont you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin anything?","['Uh, yeah, yeah, sure, why dont you stay?', 'Yeah, uhm...What is your, what is your schedule for tomorrow?', 'Are you, are you doin anything?']",0.2461,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+195,"No, Id love to do something. Uh, I have my seminar in the morning, then after that Im right open.","['No, Id love to do something.', 'Uh, I have my seminar in the morning, then after that Im right open.']",0.3185,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+196,Really? What would you like to do?,"['Really?', 'What would you like to do?']",0.2165,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+197,"Well... now I know this sounds touristy, but Id just love to go on one of those five-hour boat rides around Manhattan.","['Well... now I know this sounds touristy, but Id just love to go on one of those five-hour boat rides around Manhattan.']",0.81,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+198,"(unenthusiastic) Yeah, we could do that...why not, why not. (pouring the wine) Im just, Im really glad youre here.","['(unenthusiastic) Yeah, we could do that...why not, why not.', '(pouring the wine) Im just, Im really glad youre here.']",0.3348,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
+199,"(answering) Yeah, hello...yes...yes, she is, hold on. (to Laura) Um, its for you.","['(answering) Yeah, hello...yes...yes, she is, hold on.', '(to Laura) Um, its for you.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+200,"(to the phone) Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye. (She hangs up the phone.) Never get engaged.","['(to the phone) Hello?...', 'Hi!...', 'No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow...', 'Okay, bye.', '(She hangs up the phone.)', 'Never get engaged.']",,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.2
+201,(not excited) Youre engaged?,['(not excited) Youre engaged?'],-0.5096,0.0,0.0,0.0,0.2222222222222222,0.1111111111111111,0.0,0.0,0.2222222222222222
+202,"You, you really have no idea what its like until you actually do it. And Im on this emotional roller coaster.","['You, you really have no idea what its like until you actually do it.', 'And Im on this emotional roller coaster.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+203,Youre engaged?,['Youre engaged?'],0.4019,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+204,"You know, I cant believe it myself sometimes. You have to start thinking in terms of we. Ugh, its a very stressful situation.","['You know, I cant believe it myself sometimes.', 'You have to start thinking in terms of we.', 'Ugh, its a very stressful situation.']",-0.1854,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+205,(matter-of-factly) Youre engaged.,['(matter-of-factly) Youre engaged.'],0.4019,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+206,"Yeah, yeah, hes a great guy...","['Yeah, yeah, hes a great guy...']",0.8176,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+207,Yeah.,['Yeah.'],0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+208,"Youd really like him, you know, I cant wait to get on that boat.","['Youd really like him, you know, I cant wait to get on that boat.']",0.4201,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+209,Me too!,['Me too!'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+210,"I swear, I have absolutely no idea what women are thinking. I dont get it, okay? I, I, I admit, I, Im not getting the signals. I am not getting it! Women, theyre so subtle, their little...everything they do is subtle. Men are not subtle, we are obvious. Women know what men want, men know what men want, what do we want? We want women, thats it! Its the only thing we know for sure, it really is. We want women. How do we get them? Oh, we dont know bout that, we dont know. The next step after that we have no idea. This is why you see men honking car-horns, yelling from construction sites. These are the best ideas weve had so far. The car-horn honk, is that a beauty? Have you seen men doing this? What is this? The man is in the car, the woman walks by the front of the car, he honks. E-eeehh, eehhh, eehhh! This man is out of ideas. How does it...? E-e-e-eeeehhhh! I dont think she likes me. The amazing thing is, that we still get women, dont we? Men, I mean, men are with women. You see men with women. How are men getting women, many people wonder. Let me tell you a little bit about our organization. Wherever women are, we have a man working on the situation right now. Now, he may not be our best man, okay, we have a lot of areas to cover, but someone from our staff is on the scene. Thats why, I think, men get frustrated, when we see women reading articles, like Where to meet men? Were here, we are everywhere. Were honking our horns to serve you better.","['I swear, I have absolutely no idea what women are thinking.', 'I dont get it, okay?', 'I, I, I admit, I, Im not getting the signals.', 'I am not getting it!', 'Women, theyre so subtle, their little...everything they do is subtle.', 'Men are not subtle, we are obvious.', 'Women know what men want, men know what men want, what do we want?', 'We want women, thats it!', 'Its the only thing we know for sure, it really is.', 'We want women.', 'How do we get them?', 'Oh, we dont know bout that, we dont know.', 'The next step after that we have no idea.', 'This is why you see men honking car-horns, yelling from construction sites.', 'These are the best ideas weve had so far.', 'The car-horn honk, is that a beauty?', 'Have you seen men doing this?', 'What is this?', 'The man is in the car, the woman walks by the front of the car, he honks.', 'E-eeehh, eehhh, eehhh!', 'This man is out of ideas.', 'How does it...?', 'E-e-e-eeeehhhh!', 'I dont think she likes me.', 'The amazing thing is, that we still get women, dont we?', 'Men, I mean, men are with women.', 'You see men with women.', 'How are men getting women, many people wonder.', 'Let me tell you a little bit about our organization.', 'Wherever women are, we have a man working on the situation right now.', 'Now, he may not be our best man, okay, we have a lot of areas to cover, but someone from our staff is on the scene.', 'Thats why, I think, men get frustrated, when we see women reading articles, like Where to meet men?', 'Were here, we are everywhere.', 'Were honking our horns to serve you better.']",,0.0,0.1,0.0,0.25,0.05,0.0,0.0,0.1
+211,"So, Im on line at the supermarket. Two women in front of me. One of them, her total was eight dollars, the other three dollars. They both of course choose to pay by the use of the...","['So, Im on line at the supermarket.', 'Two women in front of me.', 'One of them, her total was eight dollars, the other three dollars.', 'They both of course choose to pay by the use of the...']",,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+212,Cheque.,['Cheque.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+213,"Cheque. Now, the fact is, if its a woman in front of you thats writing the cheque, you will not be waiting long. I have noticed that women are very fast with cheques, yknow, cause they write out so many cheques. The keys, they can never find in their purse, they dont know where that is, but the cheque book they got that. They never fumble for the cheque book. The cheque book comes out of a holster (Jerry draws imaginary book from a holster.) Who do I make it out to? Theres my ID. Theres something about a cheque that, to a man, is not masculine. I dont know exactly what it is. I think to a man, a cheque is like a note from your mother that says, I dont have any money, but if youll contact these people, Im sure theyll stick up for me... If you just trust me this one time- I dont have any money but I have these. I wrote on these. Is this of any value at all?","['Cheque.', 'Now, the fact is, if its a woman in front of you thats writing the cheque, you will not be waiting long.', 'I have noticed that women are very fast with cheques, yknow, cause they write out so many cheques.', 'The keys, they can never find in their purse, they dont know where that is, but the cheque book they got that.', 'They never fumble for the cheque book.', 'The cheque book comes out of a holster (Jerry draws imaginary book from a holster.)', 'Who do I make it out to?', 'Theres my ID.', 'Theres something about a cheque that, to a man, is not masculine.', 'I dont know exactly what it is.', 'I think to a man, a cheque is like a note from your mother that says, I dont have any money, but if youll contact these people, Im sure theyll stick up for me...', 'If you just trust me this one time- I dont have any money but I have these.', 'I wrote on these.', 'Is this of any value at all?']",,0.0,0.08,0.0,0.2,0.08,0.04,0.0,0.12
+214,Whats that one?,['Whats that one?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+215,Coccoon II The Return. I guess they didnt like it up there.,"['Coccoon II The Return.', 'I guess they didnt like it up there.']",,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+216,"Maybe they came back for Chinese food. Yknow Maureen Stapleton, if she gets a craving, shes probably screamin at those aliens, I gotta have a lo mein!","['Maybe they came back for Chinese food.', 'Yknow Maureen Stapleton, if she gets a craving, shes probably screamin at those aliens, I gotta have a lo mein!']",,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+217,"Okay, whatre we doing here? I have seen everything.","['Okay, whatre we doing here?', 'I have seen everything.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+218,Oh yeah? I dont believe youve seen... this.,"['Oh yeah?', 'I dont believe youve seen... this.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+219,"Oh, lovely.","['Oh, lovely.']",0.5859,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666
+220,Yeah.,['Yeah.'],0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+221,What do you think their parents think?,['What do you think their parents think?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+222,"So, uh, whats your son doing now, Dr. Stevens? Oh, hes a public fornicator. Yes, hes a fine boy...","['So, uh, whats your son doing now, Dr. Stevens?', 'Oh, hes a public fornicator.', 'Yes, hes a fine boy...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+223,Yknow what? This would be a really funny gift for Pamelas birthday.,"['Yknow what?', 'This would be a really funny gift for Pamelas birthday.']",0.3743,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.25
+224,Pamela? Do I know her?,"['Pamela?', 'Do I know her?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+225,"Yeah, you met her when we were going out.","['Yeah, you met her when we were going out.']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+226,"Oh yeah, right...","['Oh yeah, right...']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+227,"You have no idea who Im talking about, do you?","['You have no idea who Im talking about, do you?']",-0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+228,(quickly) No.,['(quickly) No.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+229,"Blonde hair, remember? Glasses? (pause) Have you totally blocked out the entire time we were a couple?","['Blonde hair, remember?', 'Glasses?', '(pause) Have you totally blocked out the entire time we were a couple?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+230,(a lightbulb goes on in his head) Riverside Drive.,['(a lightbulb goes on in his head) Riverside Drive.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+231,"Right! In fact... No, never mind...","['Right!', 'In fact... No, never mind...']",,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+232,"Well, what is it?","['Well, what is it?']",0.2732,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+233,"Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but... (Jerry turns in disgust) you dont want to go to... that... no.","['Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but... (Jerry turns in disgust) you dont want to go to... that... no.']",-0.7297,0.1,0.1,0.0,0.0,0.1,0.1,0.1,0.1
+234,"Wait a second, wait a second. We could work out a little deal here.","['Wait a second, wait a second.', 'We could work out a little deal here.']",,0.0,0.0,0.0,0.14285714285714285,0.14285714285714285,0.0,0.0,0.14285714285714285
+235,What little deal?,['What little deal?'],,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+236,"I will go to that, if you go with me to a little family wedding I have on Saturday.","['I will go to that, if you go with me to a little family wedding I have on Saturday.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+237,"A wedding? Have you lost it, man?","['A wedding?', 'Have you lost it, man?']",-0.1969,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+238,"Yknow, my parents are coming in for this...","['Yknow, my parents are coming in for this...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+239,Theyre coming in?,['Theyre coming in?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+240,"Yeah, tomorrow.","['Yeah, tomorrow.']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+241,"Hey, did your father ever get that hair weave?","['Hey, did your father ever get that hair weave?']",,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+242,"No, no. Still doin the big sweep across.","['No, no.', 'Still doin the big sweep across.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+243,Why does he do that?,['Why does he do that?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+244,"Doesnt think anyone can tell. So cmon, do we have a deal?","['Doesnt think anyone can tell.', 'So cmon, do we have a deal?']",,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+245,A wedding?,['A wedding?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+246,Theres a lot of people to mock...,['Theres a lot of people to mock...'],-0.4215,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+247,"All right, what the hell.","['All right, what the hell.']",-0.6808,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+248,Great!,['Great!'],0.6588,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+249,"When youre dead, youre dead. Thats it. Youre not goin anywhere...","['When youre dead, youre dead.', 'Thats it.', 'Youre not goin anywhere...']",-0.2162,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+250,Cmon lets go...,['Cmon lets go...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+251,Was I supposed to bring something?,['Was I supposed to bring something?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+252,You could have.,['You could have.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+253,I met her one time...,['I met her one time...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+254,It is not necessary.,['It is not necessary.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+255,What did you say then?,['What did you say then?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+256,Sssshhhhhh!!!,"['Sssshhhhhh!!', '!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+257,Hi,['Hi'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+258,"Hi, Pamela, you remember Jerry.","['Hi, Pamela, you remember Jerry.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+259,"(shakes Jerry's hand) Yes, we met.","[""(shakes Jerry's hand) Yes, we met.""]",0.7096,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+260,"Hi, happy birthday.","['Hi, happy birthday.']",0.5719,0.0,0.0,0.0,0.125,0.125,0.0,0.0,0.25
+261,"Thanks, ah, everybody, this is Elaine and Jerry.","['Thanks, ah, everybody, this is Elaine and Jerry.']",0.4404,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+262,Hi,['Hi'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+263,I didnt bring anything.,['I didnt bring anything.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+264,"Uh, I put you two right here.","['Uh, I put you two right here.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+265,"Oh, Okay (turns to rest of table) Im sorry, I didnt know what to bring, nobody told me.","['Oh, Okay (turns to rest of table) Im sorry, I didnt know what to bring, nobody told me.']",0.1531,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+266,How big a tip do you think itd take to get him to stop?,['How big a tip do you think itd take to get him to stop?'],-0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+267,Im in for five...,['Im in for five...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+268,Ill supply the hat.,['Ill supply the hat.'],-0.4215,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+269,(thinking) Uh-oh... What do we have here?,['(thinking) Uh-oh... What do we have here?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270,Why dont you relax and take your jacket off?,['Why dont you relax and take your jacket off?'],-0.3412,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+271,"Oh, I cant. Uh, I have a tendency to get chilly.","['Oh, I cant.', 'Uh, I have a tendency to get chilly.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+272,How masculine.,['How masculine.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273,"Plus Im wearing short sleeves, I dont want to expose my tattoos. (Vanessa smiles; thinking) Shes unbelievable!","['Plus Im wearing short sleeves, I dont want to expose my tattoos.', '(Vanessa smiles; thinking) Shes unbelievable!']",0.3306,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+274,"(to Vanessa) Hey, this guy says he knows Bricker.","['(to Vanessa) Hey, this guy says he knows Bricker.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275,"Oh, you know Bricker! From where?","['Oh, you know Bricker!', 'From where?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+276,"(thinking) Whats going on here? Gotta be her boyfriend, shes too good to be alone. Whats the difference, I cant maneouver anyway with Elaine next to me.","['(thinking) Whats going on here?', 'Gotta be her boyfriend, shes too good to be alone.', 'Whats the difference, I cant maneouver anyway with Elaine next to me.']",,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+277,(to Jerry) How do you know Pamela?,['(to Jerry) How do you know Pamela?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+278,"Uh, friend of a friend. And you?","['Uh, friend of a friend.', 'And you?']",0.247,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.3333333333333333
+279,We went to law school together.,['We went to law school together.'],,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+280,"(interrupting Jerry's conversation) Oh, Jerry!","[""(interrupting Jerry's conversation) Oh, Jerry!""]",-0.3595,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+281,"(turning to Elaine; thinking) Oh no, not now.","['(turning to Elaine; thinking) Oh no, not now.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+282,I had this dream last night and you were in it.,['I had this dream last night and you were in it.'],0.3071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+283,"Oh really? (tries turning away in the hopes Elaine gets the hint; thinking) Oh God, I gotta get out of this.","['Oh really?', '(tries turning away in the hopes Elaine gets the hint; thinking) Oh God, I gotta get out of this.']",0.2997,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+284,"You were you, but, you werent you...","['You were you, but, you werent you...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+285,"No kidding. (thinking) Why is this happening? Please, make her stop!","['No kidding.', '(thinking) Why is this happening?', 'Please, make her stop!']",-0.1902,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+286,"I think, I think we were in my house where I grew up, and you were standing there, you were looking out the window...","['I think, I think we were in my house where I grew up, and you were standing there, you were looking out the window...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+287,(thinking) This is brutal.,['(thinking) This is brutal.'],-0.6249,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+288,You turned around and you had these wooden teeth.,['You turned around and you had these wooden teeth.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+289,"How do you like that? (tries to turn away again; thinking)Can I turn now? Is this over? No, I cant, I cant. Im stuck.","['How do you like that?', '(tries to turn away again; thinking)Can I turn now?', 'Is this over?', 'No, I cant, I cant.', 'Im stuck.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+290,(noticing Jerry not wanting to listen; annoyed) Jerry? Are you listening to me?,"['(noticing Jerry not wanting to listen; annoyed) Jerry?', 'Are you listening to me?']",-0.2258,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+291,"Yes, I heard you.","['Yes, I heard you.']",0.4019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+292,"Elaine, whats the name of that jewelry store you took me to that time?","['Elaine, whats the name of that jewelry store you took me to that time?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+293,"(thinking) Thank you, Pamela! (turns to talk to Vanessa; to Vanessa) So, youre a lawyer...","['(thinking) Thank you, Pamela!', '(turns to talk to Vanessa; to Vanessa) So, youre a lawyer...']",0.2099,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.0
+294,"Sagman, Bennet, Robbins, Oppenheim and Taft.","['Sagman, Bennet, Robbins, Oppenheim and Taft.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+295,"(thinking) Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft... (to Vanessa) Of course, they handled my tattoo removal lawsuit.","['(thinking) Sagman, Bennet, Robbins, Oppenheim and Taft.', 'Sagman, Bennet, Robbins, Oppenheim and Taft... (to Vanessa) Of course, they handled my tattoo removal lawsuit.']",,0.14285714285714285,0.14285714285714285,0.0,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0
+296,"Oh, that was you?","['Oh, that was you?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+297,"Imagine, spelling Mom with two Os.","['Imagine, spelling Mom with two Os.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+298,Very funny! What do you do?,"['Very funny!', 'What do you do?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+299,Comedian.,['Comedian.'],0.3818,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+300,Really? That explains it.,"['Really?', 'That explains it.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+301,"(thinking; quickly) Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft.","['(thinking; quickly) Sagman, Bennet, Robbins, Oppenheim and Taft.', 'Sagman, Bennet, Robbins, Oppenheim and Taft.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+302,Are you ready?,['Are you ready?'],0.3612,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+303,We gotta run. Happy birthday!,"['We gotta run.', 'Happy birthday!']",,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.25
+304,"(thinking) I cant believe it. I got nothing! I dont even know her name! Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppen... Sagman... Sag...","['(thinking) I cant believe it.', 'I got nothing!', 'I dont even know her name!', 'Sagman, Bennet, Robbins, Oppenheim and Taft.', 'Sagman, Bennet, Robbins, Oppen... Sagman...', 'Sag...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+305,"That wasnt so bad, really.","['That wasnt so bad, really.']",0.5549,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+306,"Yknow, um, you could use a little work on your manners.","['Yknow, um, you could use a little work on your manners.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+307,Why? What did I do?,"['Why?', 'What did I do?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+308,"Wel-Well, I just dont appreciate these little courtesy responses, like Im selling you aluminum siding.","['Wel-Well, I just dont appreciate these little courtesy responses, like Im selling you aluminum siding.']",0.2926,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+309,I was listening!,['I was listening!'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+310,No! You couldnt wait to get back to your little... conversation.,"['No!', 'You couldnt wait to get back to your little... conversation.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+311,"No, you were talking about the, the um, the dream you had.","['No, you were talking about the, the um, the dream you had.']",0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+312,Uh-huh...,['Uh-huh...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+313,"Where you had, uh, wooden teeth.","['Where you had, uh, wooden teeth.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+314,"No! No! You had wooden teeth! You had wooden teeth! I didnt have wooden teeth, you did!","['No!', 'No!', 'You had wooden teeth!', 'You had wooden teeth!', 'I didnt have wooden teeth, you did!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+315,"All right, so I had wooden teeth, so what?","['All right, so I had wooden teeth, so what?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+316,So nothing! Nothing. (annoyed sigh),"['So nothing!', 'Nothing.', '(annoyed sigh)']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+317,"Apparently Plato, who came up with the concept of the platonic relationship, was pretty excited about it. He named it after himself. He said, Yeah, I got this new thing Platonic. My idea, my name, callin it after myself. What I do is, I go out with the girls, I talk with them- dont do anything, and go right home. Whatd you think? I think its going to be big! I bet you there were other guys in history that tried to get relationships named after them, but it didnt work. Yknow, I bet you there were guys who tried to do it, just went, Uh, Hi, uh my names Rico. Would you like to go to bed immediately? Hey, its a Riconic relationship.","['Apparently Plato, who came up with the concept of the platonic relationship, was pretty excited about it.', 'He named it after himself.', 'He said, Yeah, I got this new thing Platonic.', 'My idea, my name, callin it after myself.', 'What I do is, I go out with the girls, I talk with them- dont do anything, and go right home.', 'Whatd you think?', 'I think its going to be big!', 'I bet you there were other guys in history that tried to get relationships named after them, but it didnt work.', 'Yknow, I bet you there were guys who tried to do it, just went, Uh, Hi, uh my names Rico.', 'Would you like to go to bed immediately?', 'Hey, its a Riconic relationship.']",,0.0,0.0,0.0,0.15384615384615385,0.07692307692307693,0.0,0.0,0.15384615384615385
+318,Hey!,['Hey!'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+319,"Ah, there he is!","['Ah, there he is!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+320,"This is what I like, see? You come home and your parents are in your bed!","['This is what I like, see?', 'You come home and your parents are in your bed!']",0.2099,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+321,"Yknow, Jerry, we dont have to do this.","['Yknow, Jerry, we dont have to do this.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+322,"What are you talkin about? Its fine, I love having you here.","['What are you talkin about?', 'Its fine, I love having you here.']",0.3592,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+323,Tomorrow well go to a hotel.,['Tomorrow well go to a hotel.'],0.2732,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+324,"Ma, will you stop?","['Ma, will you stop?']",-0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+325,"No, why should we take over your apartment?","['No, why should we take over your apartment?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+326,I dont care. Im sleeping next door.,"['I dont care.', 'Im sleeping next door.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+327,Your friend Kramer doesnt mind?,['Your friend Kramer doesnt mind?'],0.4939,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.3333333333333333
+328,"No, hes making a bouillabaisse.","['No, hes making a bouillabaisse.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+329,"So, dad, lemme ask you a question. How many people work at these big law offices?","['So, dad, lemme ask you a question.', 'How many people work at these big law offices?']",,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+330,Depends on the firm.,['Depends on the firm.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+331,"Yeah, but if you called up and described someone, do you think they would know who it was?","['Yeah, but if you called up and described someone, do you think they would know who it was?']",0.1531,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+332,Whats the matter? You need a lawyer?,"['Whats the matter?', 'You need a lawyer?']",,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+333,"No, I met someone at this party, and I know where she works, but I dont know her name.","['No, I met someone at this party, and I know where she works, but I dont know her name.']",0.2646,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+334,So why dont you ask someone who was at the party?,['So why dont you ask someone who was at the party?'],0.4019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+335,"Nah, the only one I could ask is Elaine, and I cant ask her.","['Nah, the only one I could ask is Elaine, and I cant ask her.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+336,Why not?,['Why not?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+337,Because its complicated. Theres some tension there.,"['Because its complicated.', 'Theres some tension there.']",-0.1591,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+338,He used to go with her.,['He used to go with her.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+339,Which one is she?,['Which one is she?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+340,From Maryland. The one who brought you the chocolate covered cherries you didnt like.,"['From Maryland.', 'The one who brought you the chocolate covered cherries you didnt like.']",,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+341,"Oh yeah, very alert. Warm person.","['Oh yeah, very alert.', 'Warm person.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+342,"Oh yeah, shes great.","['Oh yeah, shes great.']",0.743,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+343,"So, how come nothing materialized there?","['So, how come nothing materialized there?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+344,"Well, its a tough thing to talk about uh. I dunno...","['Well, its a tough thing to talk about uh.', 'I dunno...']",,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+345,I know what it was.,['I know what it was.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+346,You dont know what it was.,['You dont know what it was.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+347,"So, what was it?","['So, what was it?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+348,"Well, we fight a lot for some reason.","['Well, we fight a lot for some reason.']",,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.0
+349,"Oh, well...","['Oh, well...']",0.2732,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+350,And there was a little problem with the physical chemistry.,['And there was a little problem with the physical chemistry.'],-0.3415,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+351,"Well, I think shes a very attractive girl.","['Well, I think shes a very attractive girl.']",0.6478,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+352,"Oh, she is, she absolutely is.","['Oh, she is, she absolutely is.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+353,I can see if there was a weight problem...,['I can see if there was a weight problem...'],-0.4019,0.16666666666666666,0.0,0.0,0.08333333333333333,0.08333333333333333,0.16666666666666666,0.08333333333333333,0.08333333333333333
+354,"No, its not that. It wasnt all one-sided.","['No, its not that.', 'It wasnt all one-sided.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+355,"You know, you cant be so particular. Nobodys perfect.","['You know, you cant be so particular.', 'Nobodys perfect.']",0.3048,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+356,"I know, I know...","['I know, I know...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+357,"Yknow Jerry, its a good thing I wasnt so particular.","['Yknow Jerry, its a good thing I wasnt so particular.']",0.4404,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+358,"(hits Morty) Idiot. (to Jerry) So whore you looking for, Sophia Loren?","['(hits Morty) Idiot.', '(to Jerry) So whore you looking for, Sophia Loren?']",-0.3786,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+359,Thats got nothin to do with it.,['Thats got nothin to do with it.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+360,How about Loni Anderson?,['How about Loni Anderson?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+361,Where do you get Loni Anderson?,['Where do you get Loni Anderson?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+362,"Why, whats wrong with Loni Anderson?","['Why, whats wrong with Loni Anderson?']",-0.4767,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363,I like Elaine more than Loni Anderson.,['I like Elaine more than Loni Anderson.'],0.3612,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+364,"What are you two talking about? Look, Elaine just wasnt the one.","['What are you two talking about?', 'Look, Elaine just wasnt the one.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+365,And this other ones the one?,['And this other ones the one?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+366,"I dunno, maybe...","['I dunno, maybe...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+367,So ask Elaine there for her number.,['So ask Elaine there for her number.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+368,"I cant. Shell get upset. I never talk about other women with her, especially this one tonight.","['I cant.', 'Shell get upset.', 'I never talk about other women with her, especially this one tonight.']",,0.0,0.25,0.0,0.0,0.0,0.25,0.0,0.0
+369,How could you still see her if your not interested?,['How could you still see her if your not interested?'],-0.3089,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0
+370,Were friends.,['Were friends.'],0.4767,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+371,Doesnt sound like youre friends to me. If you were friends you'd-youd ask her for the number. Do you know where this other one works?,"['Doesnt sound like youre friends to me.', ""If you were friends you'd-youd ask her for the number."", 'Do you know where this other one works?']",0.2079,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+372,Oh yeah.,['Oh yeah.'],0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+373,"Well, go up to the office.","['Well, go up to the office.']",0.2732,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+374,Up to her office?,['Up to her office?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+375,"Go to the building. She goes out to lunch, doesnt she?","['Go to the building.', 'She goes out to lunch, doesnt she?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+376,I guess.,['I guess.'],,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+377,"So, you stand in the lobby, by the elevator, and wait for her to come down for lunch.","['So, you stand in the lobby, by the elevator, and wait for her to come down for lunch.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+378,You mean stakeout the lobby?,['You mean stakeout the lobby?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+379,"Morty, thats ridiculous. Just ask Elaine for the number!","['Morty, thats ridiculous.', 'Just ask Elaine for the number!']",,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+380,He doesnt want to ask Elaine for the number.,['He doesnt want to ask Elaine for the number.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+381,So youve got him standing by the elevator like a dope! What happens when he sees her?,"['So youve got him standing by the elevator like a dope!', 'What happens when he sees her?']",0.2099,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+382,He pretends he bumped into her!,['He pretends he bumped into her!'],-0.1759,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+383,Yknow what? This is not that bad an idea.,"['Yknow what?', 'This is not that bad an idea.']",0.2155,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+384,What does she look like?,['What does she look like?'],0.3612,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+385,I dunno. Hard to say.,"['I dunno.', 'Hard to say.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+386,What actress does she remind you of?,['What actress does she remind you of?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+387,Loni Anderson.,['Loni Anderson.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388,Loni Anderson?!,"['Loni Anderson?', '!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+389,"What, theres something wrong with Loni Anderson? (pause) Hey listen, thanks again for running over here. I appreciate it.","['What, theres something wrong with Loni Anderson?', '(pause) Hey listen, thanks again for running over here.', 'I appreciate it.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390,"Yeah, sure. I was showing a condo on 48th street. Besides, you think I wanna miss this? (chuckles)","['Yeah, sure.', 'I was showing a condo on 48th street.', 'Besides, you think I wanna miss this?', '(chuckles)']",,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+391,Im a little nervous.,['Im a little nervous.'],-0.204,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392,"Yeah, me too...","['Yeah, me too...']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+393,"If I see her, what do I say that Im doing here in the building?","['If I see her, what do I say that Im doing here in the building?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+394,You came to see me. I work in the building.,"['You came to see me.', 'I work in the building.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+395,What do you do?,['What do you do?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+396,Im an architect.,['Im an architect.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397,Youre an architect?,['Youre an architect?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+398,Im not?,['Im not?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+399,I dont see architecture comin from you.,['I dont see architecture comin from you.'],,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+400,(somewhat annoyed) I suppose you could be an architect.,['(somewhat annoyed) I suppose you could be an architect.'],-0.3197,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401,I never said that I was the architect. Just somethin else.,"['I never said that I was the architect.', 'Just somethin else.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+402,"All right, shes not even gonna ask, if we see her, which is remote.","['All right, shes not even gonna ask, if we see her, which is remote.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+403,"Well whaddaya want me to say, that I just wandered in here?","['Well whaddaya want me to say, that I just wandered in here?']",0.34,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+404,Were having lunch with a friend. He works in the building.,"['Were having lunch with a friend.', 'He works in the building.']",,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+405,What is his name?,['What is his name?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+406,Bert... Har... bin... son. Bert Har-bin-son.,"['Bert... Har... bin... son.', 'Bert Har-bin-son.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+407,Bert Harbinson? It sounds made up.,"['Bert Harbinson?', 'It sounds made up.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+408,"No good? All right, uh how about Art... Cor.....","['No good?', 'All right, uh how about Art... Cor.....']",,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+409,Art Cor...,['Art Cor...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+410,...velay.,['...velay.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+411,Corvelay?,['Corvelay?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+412,"Yeah, right.","['Yeah, right.']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+413,"Well, what does he do?","['Well, what does he do?']",0.2732,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+414,Hes an importer.,['Hes an importer.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+415,"Just imports, no exports?","['Just imports, no exports?']",-0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+416,"(annoyed) Hes an importer/exporter, okay? (beat) Elaine ever call you back?","['(annoyed) Hes an importer/exporter, okay?', '(beat) Elaine ever call you back?']",-0.2258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+417,"No, I guess shes still mad.","['No, I guess shes still mad.']",-0.4939,0.16666666666666666,0.16666666666666666,0.0,0.0,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0
+418,"I dont understand, you never talk to her about other women?","['I dont understand, you never talk to her about other women?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+419,Never. (The elevator door opens.) Wait a second. Thats her. On the right.,"['Never.', '(The elevator door opens.)', 'Wait a second.', 'Thats her.', 'On the right.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420,(anxious) I forgot who I am! Who am I?!,"['(anxious) I forgot who I am!', 'Who am I?', '!']",,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+421,Youre you. Were having lunch with Art Corvelay.,"['Youre you.', 'Were having lunch with Art Corvelay.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422,Vandelay!,['Vandelay!'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+423,Corvelay!,['Corvelay!'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+424,Let me be the architect! I can do it!,"['Let me be the architect!', 'I can do it!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+425,"Hey, hey. uh Pamelas birthday party, didnt I see you there? Jerry.","['Hey, hey.', 'uh Pamelas birthday party, didnt I see you there?', 'Jerry.']",,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.25
+426,Sure! Hi!,"['Sure!', 'Hi!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427,"Uh, this is George. (reaches for her name) Im sorry...","['Uh, this is George.', '(reaches for her name) Im sorry...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+428,Vanessa.,['Vanessa.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+429,Nice to meet you.,['Nice to meet you.'],0.4215,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+430,"Ah, Sagman, Bennet, Robbins, Oppenheim and Taft.","['Ah, Sagman, Bennet, Robbins, Oppenheim and Taft.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+431,"Thats right! Yea, whatre you doing here?","['Thats right!', 'Yea, whatre you doing here?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+432,"Oh, were meeting a friend of ours for lunch. He works here in the building.","['Oh, were meeting a friend of ours for lunch.', 'He works here in the building.']",0.247,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+433,"Yeah, Art Vandelay.","['Yeah, Art Vandelay.']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+434,Really? Which company?,"['Really?', 'Which company?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+435,(turning to each other) I dont know. Hes an importer.,"['(turning to each other) I dont know.', 'Hes an importer.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+436,Importer?,['Importer?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+437,...And exporter.,['...And exporter.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+438,Hes an importer/exporter.,['Hes an importer/exporter.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+439,"(clears his throat) Im, uh, Im an architect.","['(clears his throat) Im, uh, Im an architect.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+440,Really. What do you design?,"['Really.', 'What do you design?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+441,"Uh, railroads, uh...","['Uh, railroads, uh...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+442,I thought engineers do that.,['I thought engineers do that.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+443,They can...,['They can...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+444,Yknow Im sorry you had to leave so early the other night.,['Yknow Im sorry you had to leave so early the other night.'],,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0
+445,"Oh, me too. My cousin had to go back to Boston.","['Oh, me too.', 'My cousin had to go back to Boston.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+446,"Oh, that guy was your cousin! (walking in front of George so he gets the picture to leave)","['Oh, that guy was your cousin!', '(walking in front of George so he gets the picture to leave)']",,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0
+447,"Yeah, and that woman was your...","['Yeah, and that woman was your...']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+448,Friend!,['Friend!'],0.5411,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+449,"Ill just, uh, get a paper...","['Ill just, uh, get a paper...']",-0.4215,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+450,"So, um, do you date uh immature men?","['So, um, do you date uh immature men?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+451,Almost exclusively...,['Almost exclusively...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+452,Bum bum bum bum... I have no letters... Bum bum bum bum...,"['Bum bum bum bum...', 'I have no letters... Bum bum bum bum...']",,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0
+453,"(annoyed) Ma, will you go already?","['(annoyed) Ma, will you go already?']",-0.3818,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+454,Bum bum bum bum...,['Bum bum bum bum...'],,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0
+455,What are you doing?!,"['What are you doing?', '!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+456,"Wait, I just want to see something.","['Wait, I just want to see something.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+457,"You cant look in there, were playing!","['You cant look in there, were playing!']",0.2714,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+458,Hi.,['Hi.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+459,Hi.,['Hi.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+460,"(cleaning his shoes) Good evening, Mr. Kramer!","['(cleaning his shoes) Good evening, Mr. Kramer!']",0.4926,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+461,Hey Morty! (to Jerry) Salad dressing?,"['Hey Morty!', '(to Jerry) Salad dressing?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+462,Look.,['Look.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+463,Quo. Is that a word?,"['Quo.', 'Is that a word?']",,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+464,Maybe!,['Maybe!'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+465,Will you challenge it?,['Will you challenge it?'],,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+466,"Ma, you cant look up words in the dictionary! (to Morty) Dad, shes cheating!","['Ma, you cant look up words in the dictionary!', '(to Morty) Dad, shes cheating!']",-0.3175,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+467,Quo? Thats not a word.,"['Quo?', 'Thats not a word.']",,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+468,(to Jerry) Youre such a stickler...,['(to Jerry) Youre such a stickler...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+469,"Well put something down, youre taking twenty minutes on this. So is Uncle Mac and Artie, theyre all coming over here before the wedding?","['Well put something down, youre taking twenty minutes on this.', 'So is Uncle Mac and Artie, theyre all coming over here before the wedding?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+470,"Theyll be here at two oclock. Oh, Elaine called. She said shed be here at two-thirty. And she says Hope your meeting went well with Art Vandelay?","['Theyll be here at two oclock.', 'Oh, Elaine called.', 'She said shed be here at two-thirty.', 'And she says Hope your meeting went well with Art Vandelay?']",0.1531,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+471,She said what?,['She said what?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+472,"Just what I said, here.","['Just what I said, here.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+473,"She knows! Oh, I am such a jackass.","['She knows!', 'Oh, I am such a jackass.']",-0.2377,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+474,She knows what?,['She knows what?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+475,She knows the whole stupid thing. Vanessa and the elevator...,"['She knows the whole stupid thing.', 'Vanessa and the elevator...']",-0.2633,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+476,"No, no, no, that wont do. He may have a Z.","['No, no, no, that wont do.', 'He may have a Z.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+477,"So, how did she find out?","['So, how did she find out?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+478,"Because, Vanessa probably told Pamela, and Pamela probably told Elaine.","['Because, Vanessa probably told Pamela, and Pamela probably told Elaine.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+479,"So, what are you? Afraid of her?","['So, what are you?', 'Afraid of her?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+480,Yes. Yes I am! (to Helen) What else did she say on the phone?,"['Yes.', 'Yes I am!', '(to Helen) What else did she say on the phone?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+481,Whatever I wrote down.,['Whatever I wrote down.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+482,"Yeah, but what was the tone in her voice? How did she sound?","['Yeah, but what was the tone in her voice?', 'How did she sound?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+483,"Who am I, Rich Little?","['Who am I, Rich Little?']",0.5574,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+484,"Well, she cant be too mad. Shes still coming to the wedding.","['Well, she cant be too mad.', 'Shes still coming to the wedding.']",,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666,0.0
+485,"Yeah, but now Im nervous.","['Yeah, but now Im nervous.']",-0.2617,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+486,"Oh, stop it.","['Oh, stop it.']",-0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+487,Quone?,['Quone?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+488,...30...31...,['...30...31...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+489,"Quone? No, Im afraid that Im going to have to challenge that.","['Quone?', 'No, Im afraid that Im going to have to challenge that.']",,0.4,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+490,...32...,['...32...'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+491,"No, you dont have to challenge that. Thats a word. Thats a definite word.","['No, you dont have to challenge that.', 'Thats a word.', 'Thats a definite word.']",,0.14285714285714285,0.14285714285714285,0.0,0.2857142857142857,0.0,0.0,0.0,0.0
+492,I am challenging.,['I am challenging.'],0.1531,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+493,Quone. To quone something.,"['Quone.', 'To quone something.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+494,Uh-huh.,['Uh-huh.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+495,Im not playing with you anymore.,['Im not playing with you anymore.'],-0.1511,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+496,Quones not a word.,['Quones not a word.'],,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+497,No good. Sorry. There it is. Get it off.,"['No good.', 'Sorry.', 'There it is.', 'Get it off.']",,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+498,(to Kramer) Why did you make me put that down?,['(to Kramer) Why did you make me put that down?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+499,"Nah, we need a medical dictionary! If a patient gets difficult, you quone him.","['Nah, we need a medical dictionary!', 'If a patient gets difficult, you quone him.']",-0.2463,0.2222222222222222,0.0,0.0,0.2222222222222222,0.0,0.0,0.0,0.0
+500,"You want some funny material, you oughta come down to where I work, now thats a sitcom!","['You want some funny material, you oughta come down to where I work, now thats a sitcom!']",0.5411,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+501,You must have quite a time down there.,['You must have quite a time down there.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+502,We got plenty of time.,['We got plenty of time.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+503,"Oh, Im sorry. Im just waiting for someone.","['Oh, Im sorry.', 'Im just waiting for someone.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+504,Watch what you say to this guy. Hell put it in his next act!,"['Watch what you say to this guy.', 'Hell put it in his next act!']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+505,"Yeah, yeah...","['Yeah, yeah...']",0.5267,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+506,"Jerry, did I tell you that Im writing a book? An autobiography.","['Jerry, did I tell you that Im writing a book?', 'An autobiography.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+507,"Yeah, Uncle Mac, you mentioned it.","['Yeah, Uncle Mac, you mentioned it.']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+508,Its based on all my experiences!,['Its based on all my experiences!'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+509,Thats perfect.,['Thats perfect.'],0.5719,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+510,Could you excuse me one second? Im sorry.,"['Could you excuse me one second?', 'Im sorry.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+511,"How do you do? (introducing himself) Uh, Jerry Seinfeld.","['How do you do?', '(introducing himself) Uh, Jerry Seinfeld.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+512,"Oh, how do you do? Elaine Benes.","['Oh, how do you do?', 'Elaine Benes.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+513,"Um, do you want to do this now, or do you want to wait until we get in the car?","['Um, do you want to do this now, or do you want to wait until we get in the car?']",0.1531,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+514,"Oh no, lets do it now.","['Oh no, lets do it now.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+515,"All right, the whole elevator business, let me just explain-","['All right, the whole elevator business, let me just explain-']",,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+516,Okay.,['Okay.'],0.2263,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+517,"Jerry, were you goin with us?","['Jerry, were you goin with us?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+518,"No, Im gonna take my car.","['No, Im gonna take my car.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+519,Thats why I brought the wagon. Why the hell did I bring the wagon?,"['Thats why I brought the wagon.', 'Why the hell did I bring the wagon?']",-0.3404,0.2,0.2,0.0,0.0,0.0,0.2,0.2,0.0
+520,"Anyway, you know why I didnt ask you, I mean I felt so uncomfortable, and you were so annoyed in the cab.","['Anyway, you know why I didnt ask you, I mean I felt so uncomfortable, and you were so annoyed in the cab.']",-0.7739,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+521,"Well, Jerry, I never saw you flirt with anyone before. It was quite the spectacle.","['Well, Jerry, I never saw you flirt with anyone before.', 'It was quite the spectacle.']",,0.0,0.0,0.0,0.125,0.125,0.0,0.0,0.125
+522,"Jerry, well see you there. Bye, Elaine.","['Jerry, well see you there.', 'Bye, Elaine.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+523,"Oh, bye. Good to see you.","['Oh, bye.', 'Good to see you.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+524,"Oh, we didnt meet.","['Oh, we didnt meet.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+525,"Oh, Im sorry. Elaine, this is my cousin, Artie Levine.","['Oh, Im sorry.', 'Elaine, this is my cousin, Artie Levine.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+526,(correcting Jerry) Levine.,['(correcting Jerry) Levine.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+527,"(sarcastically) Yeah, Levine. And Im Jerry Cougar Mellencamp. Anyway, I admit it was a fairly ridiculous thing to do, but I mean, I mean, obviously we have a little problem here.","['(sarcastically) Yeah, Levine.', 'And Im Jerry Cougar Mellencamp.', 'Anyway, I admit it was a fairly ridiculous thing to do, but I mean, I mean, obviously we have a little problem here.']",-0.1761,0.125,0.125,0.0,0.125,0.0,0.125,0.125,0.0
+528,"Yeah, obviously.","['Yeah, obviously.']",0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+529,"I mean, if were gonna be friends, we gotta be able to talk about other people.","['I mean, if were gonna be friends, we gotta be able to talk about other people.']",0.4767,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+530,Couldnt agree more.,['Couldnt agree more.'],-0.2755,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+531,Good.,['Good.'],0.4404,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+532,Good.,['Good.'],0.4404,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+533,Good.,['Good.'],0.4404,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+534,Great!,['Great!'],0.6588,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+535,Great? Where do you get great?,"['Great?', 'Where do you get great?']",0.3331,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+536,Its great to... talk about... other people...,['Its great to... talk about... other people...'],0.6249,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+537,...Guys?,['...Guys?'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+538,Yeah.,['Yeah.'],0.296,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+539,"Uh-huh. Yeah. So, anybody specific?","['Uh-huh.', 'Yeah.', 'So, anybody specific?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+540,No. A general guy.,"['No.', 'A general guy.']",,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+541,Oh really? Elaine Marie Benes...,"['Oh really?', 'Elaine Marie Benes...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+542,"What? No, its not a big deal.","['What?', 'No, its not a big deal.']",,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.2
+543,"No, thats great! Thats terrific!","['No, thats great!', 'Thats terrific!']",0.2848,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+544,"No, we just met...","['No, we just met...']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+545,Doesnt matter. Whats the young mans name? I would like to meet him.,"['Doesnt matter.', 'Whats the young mans name?', 'I would like to meet him.']",,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.25
+546,"Hmmm, I dont think so.","['Hmmm, I dont think so.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+547,"Well, what does he do? Is he an artisan, a craftsman, a labourer of some sort?","['Well, what does he do?', 'Is he an artisan, a craftsman, a labourer of some sort?']",0.1764,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+548,Wall street.,['Wall street.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+549,"Ah, high finance. Bulls, Bears, people from Conneticut.","['Ah, high finance.', 'Bulls, Bears, people from Conneticut.']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+550,And he happens to be pretty good lookin.,['And he happens to be pretty good lookin.'],0.7269,0.0,0.0,0.0,0.2222222222222222,0.1111111111111111,0.0,0.0,0.2222222222222222
+551,"(pause) All right, sir.","['(pause) All right, sir.']",,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+552,And... hes hilarious.,['And... hes hilarious.'],0.4019,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333
+553,Now thats not fair! So where did you meet this guy?,"['Now thats not fair!', 'So where did you meet this guy?']",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+554,I staked out his health club.,['I staked out his health club.'],,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+555,"Uh huh. When youre on a stakeout, do you find its better to stand up against the wall, or kinda crouch down behind a big plant?","['Uh huh.', 'When youre on a stakeout, do you find its better to stand up against the wall, or kinda crouch down behind a big plant?']",0.2202,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+556,"Yknow I think that even if youve had a relationship with someone, or lets say, especially if youve had a relationship with someone and you try to become friends afterwards, its very difficult. Isnt this? Its hard. Because, you know each other so well, you know all of each others tricks. Its like two magicians, trying to entertain each other. The one goes, Look, a rabbit. The other goes, So? I believe this is your card. Look, why dont we just saw each other in half and call it a night, okay?","['Yknow I think that even if youve had a relationship with someone, or lets say, especially if youve had a relationship with someone and you try to become friends afterwards, its very difficult.', 'Isnt this?', 'Its hard.', 'Because, you know each other so well, you know all of each others tricks.', 'Its like two magicians, trying to entertain each other.', 'The one goes, Look, a rabbit.', 'The other goes, So?', 'I believe this is your card.', 'Look, why dont we just saw each other in half and call it a night, okay?']",,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333
