@@ -20,10 +20,12 @@ export default {
             const data = await d3.csv('/data/S01E01.csv');
             let compounds = [];
             data.forEach(item => {
-                compounds.push({
-                    index: +item.index,
-                    compound: +item.compound
-                })
+                if (!item.compound == "") {
+                    compounds.push({
+                        index: +item.index,
+                        compound: +item.compound
+                    })
+                }
             })
 
             let width = document.querySelector('.canvas').clientWidth;
@@ -46,7 +48,7 @@ export default {
                 .attr("d", line(compounds))
                 .attr("fill", "none")
                 .attr("stroke", "rgb(34 150 243)")
-                .attr("stroke-width", 3);
+                .attr("stroke-width", 1);
 
             console.log(compounds)
         }
