@@ -1,6 +1,7 @@
 <template>
     <div class="graph">
-        <button @click="returnRandomSEID">Click me!!!!</button>
+        <button @click="generateEpisodeGraph">Click me!!!!</button>
+        <p>{{ SEID }}</p>
     </div>
 </template>
 
@@ -28,15 +29,18 @@ export default {
         getRandomInt(max) {
             return Math.floor(Math.random() * max);
         },
-        async returnRandomSEID() {
-            const epInfo = await this.getEpInfo();
-            const seasonIds = Array.from(new Set(epInfo.map((item) => item.SEID)))
-            console.log(this.getRandomInt(seasonIds.length))
+        returnRandomSEID() {
+            //const epInfo = await this.getEpInfo();
+            //const seasonIds = Array.from(new Set(epInfo.map((item) => item.SEID)))
+            let seasonIds = ['S01E01', 'S01E02', 'S01E03']; // for testing
+            let randomInt = this.getRandomInt(seasonIds.length)
+            this.SEID = seasonIds[randomInt]
         },
         async getEpInfo() {
             return await d3.csv(`/data/episode_info.csv`)
         },
         async generateEpisodeGraph() {
+            this.returnRandomSEID()
             const data = await d3.csv(`/data/${this.SEID}.csv`);
             let compounds = [],
                 count = 0;
