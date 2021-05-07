@@ -1,5 +1,6 @@
 <template>
     <div class="graph">
+        <button @click="returnRandomSEID">Click me!!!!</button>
     </div>
 </template>
 
@@ -17,18 +18,26 @@ export default {
                 bottom: 50,
                 left: 50
             },
-            SEID: ''
+            SEID: 'S01E03'
         }
     },
     created() {
-        this.getSeinfeldData()
+        this.generateEpisodeGraph()
     },
     methods: {
-        async getSEID() {
-            
+        getRandomInt(max) {
+            return Math.floor(Math.random() * max);
         },
-        async getSeinfeldData() {
-            const data = await d3.csv('/data/S01E03.csv');
+        async returnRandomSEID() {
+            const epInfo = await this.getEpInfo();
+            const seasonIds = Array.from(new Set(epInfo.map((item) => item.SEID)))
+            console.log(this.getRandomInt(seasonIds.length))
+        },
+        async getEpInfo() {
+            return await d3.csv(`/data/episode_info.csv`)
+        },
+        async generateEpisodeGraph() {
+            const data = await d3.csv(`/data/${this.SEID}.csv`);
             let compounds = [],
                 count = 0;
             data.forEach(item => {
@@ -57,7 +66,7 @@ export default {
                 .attr('width', this.width + this.margin.right + this.margin.left)
                 .attr('height', this.height + this.margin.top  + this.margin.bottom)
                 .append('g')
-                .attr('transform', `translate(${this.margin.left}, ${this.margin.top})`)
+                .attr('transform', `translate(0, ${this.margin.top})`)
 
             svg.append("path")
                 .attr("d", line(compounds))
@@ -72,22 +81,12 @@ export default {
                             .tickFormat(d => (Math.ceil(d/compounds.length*100))+'%')
                             .ticks(2)
                             
-                            
-                            
-            
             svg.append('g')
-                /*.attr('transform', `translate(${this.margin.top})`)*/
                 .call(yAxis)
 
             svg.append('g')
                 .attr('transform', `translate(0, ${this.height/2})`)
                 .call(xAxis)
-
-            /*svg.append('line')
-                .attr('x1', 0)
-                .attr('x2', 100)*/
-
-            console.log(compounds)
         }
     }
 }
@@ -100,5 +99,4 @@ export default {
     /* border: solid 1px #2c3e50;*/ 
     margin: 0 auto;
 }
-
 </style>
