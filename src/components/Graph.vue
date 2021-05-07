@@ -1,5 +1,5 @@
 <template>
-    <div class="canvas">
+    <div class="graph">
     </div>
 </template>
 
@@ -9,13 +9,13 @@ import * as d3 from 'd3'
 export default {
     data() {
         return {
-            height: 300,
-            width: null,
+            height: 500,
+            width: 800,
             margin: {
-                top: null,
-                right: null,
-                bottom: null,
-                left: null
+                top: 50,
+                right: 50,
+                bottom: 50,
+                left: 50
             },
             SEID: ''
         }
@@ -25,7 +25,7 @@ export default {
     },
     methods: {
         async getSEID() {
-
+            
         },
         async getSeinfeldData() {
             const data = await d3.csv('/data/S01E03.csv');
@@ -40,12 +40,10 @@ export default {
                     count += 1;
                 }
             })
-
-            let width = document.querySelector('.canvas').clientWidth;
             
-            const x = d3.scaleLinear().domain([compounds[0].index, compounds[compounds.length-1].index]).range([0, 712]); // range corresponds to width of .canvas element
+            const x = d3.scaleLinear().domain([compounds[0].index, compounds[compounds.length-1].index]).range([0, this.width]); // range corresponds to width of .canvas element
                                             // the domain needs to be the {index} values for the first and last items in data array
-            const y = d3.scaleLinear().domain([-1,1]).range([300, 0]) // range corresponds to height of .canvas element
+            const y = d3.scaleLinear().domain([-1,1]).range([this.height, 0]) // range corresponds to height of .canvas element
                                             // the [-1, 1] references the 
 
             const line = d3.line()
@@ -54,10 +52,12 @@ export default {
                 .y(d => y(d.compound));
             
             const svg = d3
-                .select('.canvas')
+                .select('.graph')
                 .append('svg')
-                .attr('width', width)
-                .attr('height', this.height)
+                .attr('width', this.width + this.margin.right + this.margin.left)
+                .attr('height', this.height + this.margin.top  + this.margin.bottom)
+                .append('g')
+                .attr('transform', `translate(${this.margin.left}, ${this.margin.top})`)
 
             svg.append("path")
                 .attr("d", line(compounds))
@@ -76,16 +76,16 @@ export default {
                             
             
             svg.append('g')
-                .attr("transform", "translate(0,10)")
+                /*.attr('transform', `translate(${this.margin.top})`)*/
                 .call(yAxis)
 
             svg.append('g')
-                .attr('transform', 'translate(0, 160)')
+                .attr('transform', `translate(0, ${this.height/2})`)
                 .call(xAxis)
 
-            svg.append('line')
+            /*svg.append('line')
                 .attr('x1', 0)
-                .attr('x2', 100)
+                .attr('x2', 100)*/
 
             console.log(compounds)
         }
@@ -94,8 +94,9 @@ export default {
 </script>
 
 <style scoped>
-.canvas {
-    width: 50%;
+.graph {
+    height: 1000px;
+    width: 100%;
     /* border: solid 1px #2c3e50;*/ 
     margin: 0 auto;
 }
