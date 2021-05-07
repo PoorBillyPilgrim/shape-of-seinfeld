@@ -9,18 +9,28 @@ import * as d3 from 'd3'
 export default {
     data() {
         return {
-            msg: 'test'
+            height: 300,
+            width: null,
+            margin: {
+                top: null,
+                right: null,
+                bottom: null,
+                left: null
+            },
+            SEID: ''
         }
     },
     created() {
         this.getSeinfeldData()
     },
     methods: {
+        async getSEID() {
+
+        },
         async getSeinfeldData() {
             const data = await d3.csv('/data/S01E03.csv');
-            console.log(data.length)
-            let compounds = [];
-            let count = 0;
+            let compounds = [],
+                count = 0;
             data.forEach(item => {
                 if (!item.compound == "") {
                     compounds.push({
@@ -29,11 +39,9 @@ export default {
                     })
                     count += 1;
                 }
-                
             })
 
             let width = document.querySelector('.canvas').clientWidth;
-            let height = document.querySelector('.canvas').clientHeight;
             
             const x = d3.scaleLinear().domain([compounds[0].index, compounds[compounds.length-1].index]).range([0, 712]); // range corresponds to width of .canvas element
                                             // the domain needs to be the {index} values for the first and last items in data array
@@ -49,7 +57,7 @@ export default {
                 .select('.canvas')
                 .append('svg')
                 .attr('width', width)
-                .attr('height', height)
+                .attr('height', this.height)
 
             svg.append("path")
                 .attr("d", line(compounds))
@@ -87,7 +95,6 @@ export default {
 
 <style scoped>
 .canvas {
-    height: 300px;
     width: 50%;
     /* border: solid 1px #2c3e50;*/ 
     margin: 0 auto;
