@@ -9,7 +9,7 @@ import * as d3 from 'd3'
 export default {
     data() {
         return {
-            msg: ''
+            msg: 'test'
         }
     },
     created() {
@@ -18,20 +18,24 @@ export default {
     methods: {
         async getSeinfeldData() {
             const data = await d3.csv('/data/S01E03.csv');
+            console.log(data.length)
             let compounds = [];
+            let count = 0;
             data.forEach(item => {
                 if (!item.compound == "") {
                     compounds.push({
-                        index: +item.index,
+                        index: count,
                         compound: +item.compound
                     })
+                    count += 1;
                 }
+                
             })
 
             let width = document.querySelector('.canvas').clientWidth;
             let height = document.querySelector('.canvas').clientHeight;
             
-            const x = d3.scaleLinear().domain([data[0].index, data[data.length-1].index]).range([0, 712]); // range corresponds to width of .canvas element
+            const x = d3.scaleLinear().domain([compounds[0].index, compounds[compounds.length-1].index]).range([0, 712]); // range corresponds to width of .canvas element
                                             // the domain needs to be the {index} values for the first and last items in data array
             const y = d3.scaleLinear().domain([-1,1]).range([300, 0]) // range corresponds to height of .canvas element
                                             // the [-1, 1] references the 
@@ -57,6 +61,9 @@ export default {
                             .scale(y);
 
             const xAxis = d3.axisBottom(x)
+                            .tickFormat(d => (Math.ceil(d/compounds.length*100))+'%')
+                            .ticks(2)
+                            
                             
                             
             
