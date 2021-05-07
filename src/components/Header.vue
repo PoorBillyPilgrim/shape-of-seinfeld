@@ -1,6 +1,6 @@
 <template>
     <div class="header">
-        <img src="/images/shape-of-seinfeld.png"/>
+        <img src="/images/shape-of-seinfeld.png" alt="shape of seinfeld logo mimicking seinfeld logo with yellow background and red font color" />
     </div>
 </template>
 
@@ -15,15 +15,7 @@ export default {
 </script>
 
 <style scoped>
-text {
-    fill: red;
-}
-
-.big {
-    font-size: 3rem;
-}
-
-.small {
-    font-size: 2rem;
+img {
+    height: 100px;
 }
 </style>
