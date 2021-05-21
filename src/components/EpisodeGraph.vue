@@ -1,7 +1,5 @@
 <template>
     <div class="graph">
-        <button @click="generateEpisodeGraph">Click me!!!!</button>
-        <p>{{ SEID }}</p>
     </div>
 </template>
 
@@ -9,6 +7,7 @@
 import * as d3 from 'd3'
 
 export default {
+    name: 'EpisodeGraph',
     data() {
         return {
             height: 500,
@@ -18,46 +17,48 @@ export default {
                 right: 50,
                 bottom: 50,
                 left: 50
-            },
-            SEID: 'S01E03'
+            }
+        }
+    },
+    props: {
+        SEID: {
+            type: String,
         }
     },
     created() {
-        this.generateEpisodeGraph()
+        this.drawGraph()
+    },
+    watch: {
+        SEID: {
+            handler() {
+                this.resetGraph()
+            },
+            immediate: true,
+            deep: true
+        }
     },
     methods: {
-        getRandomInt(max) {
-            return Math.floor(Math.random() * max);
-        },
-        returnRandomSEID() {
-            //const epInfo = await this.getEpInfo();
-            //const seasonIds = Array.from(new Set(epInfo.map((item) => item.SEID)))
-            let seasonIds = ['S01E01', 'S01E02', 'S01E03']; // for testing
-            let randomInt = this.getRandomInt(seasonIds.length)
-            this.SEID = seasonIds[randomInt]
-        },
-        async getEpInfo() {
-            return await d3.csv(`/data/episode_info.csv`)
-        },
-        async generateEpisodeGraph() {
-            this.returnRandomSEID()
+        async drawGraph() {
             const data = await d3.csv(`/data/${this.SEID}.csv`);
             let compounds = [],
                 count = 0;
             data.forEach(item => {
                 if (!item.compound == "") {
-                    compounds.push({
-                        index: count,
-                        compound: +item.compound
-                    })
+                    compounds.push({ index: count, compound: +item.compound })
                     count += 1;
                 }
             })
             
-            const x = d3.scaleLinear().domain([compounds[0].index, compounds[compounds.length-1].index]).range([0, this.width]); // range corresponds to width of .canvas element
-                                            // the domain needs to be the {index} values for the first and last items in data array
-            const y = d3.scaleLinear().domain([-1,1]).range([this.height, 0]) // range corresponds to height of .canvas element
-                                            // the [-1, 1] references the 
+            const x = d3.scaleLinear()
+                        .domain([compounds[0].index, compounds[compounds.length-1].index])
+                        .range([0, this.width]); 
+                        // range corresponds to width of .canvas element
+                        // the domain needs to be the {index} values for the first and last items in data array
+            const y = d3.scaleLinear()
+                        .domain([-1,1])
+                        .range([this.height, 0]) 
+                        // range corresponds to height of .canvas element
+                        // the [-1, 1] references the 
 
             const line = d3.line()
                 .curve(d3.curveBumpX)
@@ -91,6 +92,13 @@ export default {
             svg.append('g')
                 .attr('transform', `translate(0, ${this.height/2})`)
                 .call(xAxis)
+        },
+        removeGraph() {
+            d3.select('svg').remove();
+        },
+        resetGraph() {
+            this.removeGraph()
+            this.drawGraph()
         }
     }
 }
@@ -98,7 +106,6 @@ export default {
 
 <style scoped>
 .graph {
-    height: 1000px;
     width: 100%;
     /* border: solid 1px #2c3e50;*/ 
     margin: 0 auto;
